@@ -1,0 +1,122 @@
+body {
+background: #3772ff;
+}
+
+.elemento-1{
+    position: absolute;
+    width: 352.11px;
+    height: 295px;
+    left: -0.5px;
+    top: 0px;
+}
+
+.button-home, .button-mens {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+}
+
+.button-home {
+    position: absolute;
+    left: 13.33%;
+    right: 81.33%;
+    top: 5.23%;
+    bottom: 92.26%
+}
+
+.button-mens {
+    position: absolute;
+    left: 34.95%;
+    right: 58.63%;
+    top: 5.47%;
+    bottom: 92.47%;
+}
+
+#logo {
+    position: absolute;
+    width: 186.67px;
+    height: 46px;
+    left: 25%;
+    top: 168px;
+    display: flex;
+    align-items: center;
+}
+
+H3 {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 48px;
+    color: #ffffff;
+}
+
+#title-Inicial {
+    position: absolute;
+    height: 48px;
+    left: 30%;
+    top: 238px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #ffffff;
+}
+#text-inicial{
+    position: absolute;
+    width: 65%;
+    height: 72px;
+    left: 17.5%;
+    top: 302px;
+}
+
+.elemento-2 {
+    position: absolute;
+    width: 30%;
+    height: 415px;
+    left: 82%;
+    top: 199px;
+
+}
+
+.img-adopet {
+    position: absolute;
+    width: 65%;
+    height: 312.77px;
+    left: 10.52%;
+    top: 518px;
+}
+
+.position-rectangle{
+    position: absolute;
+    width: 390px;
+    left: 0px;
+    height: 0px;
+    top: 814px;
+    
+}
+.rectangle{
+    height: 144px;
+    width: 400px;
+    left: 0px;
+    top: 813px;
+    border-radius: 0px;
+    background-color: #36d6ad;
+}
+
+#text-creditos {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 243px;
+    height: 24px;
+    left: 65px;
+    top: 844px;
+}
